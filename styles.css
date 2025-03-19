@@ -70,7 +70,7 @@ main {
 
 .btn {
     background-color: #ff6600;
-    color: #fff; /*fff*/
+    color: #fff;
     text-decoration: none;
     padding: 15px 30px;
     font-size: 1.2rem;
@@ -83,7 +83,7 @@ main {
 }
 
 .info {
-    background-color: #ee5d08; /*222*/
+    background-color: #ee5d08; /*ee5d08*/
     padding: 40px 0;
 }
 
